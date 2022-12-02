@@ -4,7 +4,7 @@
 Hello! My name is Sergey. I am Java developer.
 
 ## Я закончил курсы Нетологии "Java-разработчик с нуля".
-I finished Netology courses "Java developer from scratch"
+I finished Netology courses "Java/Kotlin developer from scratch"
 
 ## Hard skills:
 - Java core, Kotlin
@@ -29,7 +29,9 @@ I finished Netology courses "Java developer from scratch"
 - ["Облачное хранилище" (Cloud Storage)](https://github.com/PoddubniySerg/StorageCloud.git).
 - ["Конвертер в текстовую графику" (Converter to Text Graphics)](https://github.com/PoddubniySerg/Graphics_converter.git).
 - ["Сетевой чат" (Network chat)](https://github.com/PoddubniySerg/Networkchat.git).
-- ["Сервис перевода денег" (Money Transfer Service)](https://github.com/PoddubniySerg/MoneyTransferApp.git).
+- ["Сервис перевода денег" (Money Transfer Service)](https://github.com/PoddubniySerg/MoneyTransferApp.git)
+- [Голосовой ассистент андроид (Android Voice assistant)](https://github.com/PoddubniySerg/AndroidVoiceAssistant.git)
+- [Гайд по персонажам Marvel (Guide to Marvel characters)](https://github.com/PoddubniySerg/Marvel-characters-history.git).
 
 ## Иные ссылки (Other links):
 - [Домашние работы по курсу Нетологии (Netology Homeworks)](https://github.com/PoddubniySerg/Homeworks.git).
