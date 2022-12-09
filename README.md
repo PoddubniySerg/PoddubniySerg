@@ -4,7 +4,7 @@
 Hello! My name is Sergey. I am Java developer.
 
 ## Я закончил курсы Нетологии "Java-разработчик с нуля".
-I finished Netology courses "Java/Kotlin developer from scratch"
+I finished Netology courses "Java developer from scratch"
 
 ## Hard skills:
 - Java core, Kotlin
