@@ -1,13 +1,14 @@
 # Привет! 
 
 ## Меня зовут Сергей, я Java-разработчик. 
-Hello! My name is Sergey. I am Java developer.
+Образование высшее техническое. 
+В настоящее время работаю в компании по ремонту и обслуживанию оборудования в должности заместителя генерального директора. 
 
-## Я закончил курсы Нетологии "Java-разработчик с нуля".
-I finished Netology courses "Java developer from scratch"
+## Закончил курсы Нетологии "Java-разработчик с нуля".
+## Прохожу обучение по направлению андроид разработка в Skillbox (в рамках курса изучил Kotlin)
 
 ## Hard skills:
-- Java core, Kotlin
+- Java, Kotlin
 - git
 - Maven, Gradle
 - JUnit, Mockito, TestContainers
