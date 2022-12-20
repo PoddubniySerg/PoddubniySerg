@@ -32,7 +32,7 @@
 - ["Сетевой чат" (Network chat)](https://github.com/PoddubniySerg/Networkchat.git): Java core, JSON, Junit, Mockito, Maven, Git
 - ["Сервис перевода денег" (Money Transfer Service)](https://github.com/PoddubniySerg/MoneyTransferApp.git): Spring Boot, Junit, Mockito, TestContainers, Maven, Docker, Docker-compose, Git.
 - [Голосовой ассистент андроид (Android Voice assistant)](https://github.com/PoddubniySerg/AndroidVoiceAssistant.git): Kotlin, Android SDK, Git 
-- [Простое приложение для отображения списка фотографий с Марса из открытого Nasa API (A simple application to display a list of photos from Mars from the open Nasa API.)](https://github.com/PoddubniySerg/MarsPhotosNasaAPI.git)
+- [Простое приложение для отображения списка фотографий с Марса из открытого Nasa API (A simple application to display a list of photos from Mars from the open Nasa API.)](https://github.com/PoddubniySerg/MarsPhotosNasaAPI.git): Kotlin, Android SDK, Git, MVVM, Clean Architecture, Retrofit, Hilt(Dagger), Paging library. 
 - [Гайд по персонажам Marvel (Guide to Marvel characters)](https://github.com/PoddubniySerg/Marvel-characters-history.git): JavaScript, Vue.js, Bootstrap, Node.js.
 
 ## Иные ссылки (Other links):
