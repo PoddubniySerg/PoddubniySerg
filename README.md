@@ -36,7 +36,8 @@
 - [Гайд по персонажам Marvel (Guide to Marvel characters)](https://github.com/PoddubniySerg/Marvel-characters-history.git): JavaScript, Vue.js, Bootstrap, Node.js.
 
 ## Иные ссылки (Other links):
-- [Домашние работы по курсу Нетологии (Netology Homeworks)](https://github.com/PoddubniySerg/Homeworks.git).
+- [Домашние работы по курсу Java Нетологии (Java Netology Homeworks)](https://github.com/PoddubniySerg/Homeworks.git).
+- [Домашние работы по Андроид (Homeworks on Android)](https://github.com/PoddubniySerg/-Homeworks-on-Android-.git).
 - [Сертификаты об обучении (Educational certificates)](https://github.com/PoddubniySerg/CV_Sergey_Poddubniy_JAVA-developer/tree/master/Certificates).
 
 ## Контакты (Contacts):
