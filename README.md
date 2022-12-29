@@ -57,7 +57,7 @@ poddubniysergey1981@gmail.com
 - [Все работы по курсу Java Нетологии (Java Netology Homeworks)](https://github.com/PoddubniySerg/Homeworks.git).
 
 ### Android
-- [Приложение для получения данных банковской карты по ее BIN (тестовое задание на вакансию)](https://github.com/PoddubniySerg/BinListNetClient): Kotlin, Android SDK, Git .
+- [Приложение для получения данных банковской карты по ее BIN (тестовое задание на вакансию)](https://github.com/PoddubniySerg/BinListNetClient): Kotlin, Android SDK, Git, MVVM, Clean Architecture, Retrofit, Hilt(Dagger), Room, RecyclerView.
 - [Простое приложение для отображения списка фотографий с Марса из открытого Nasa API (A simple application to display a list of photos from Mars from the open Nasa API.)](https://github.com/PoddubniySerg/MarsPhotosNasaAPI.git): Kotlin, Android SDK, Git, MVVM, Clean Architecture, Retrofit, Hilt(Dagger), Paging library.
 - [Все работы по Андроид (Homeworks on Android)](https://github.com/PoddubniySerg/-Homeworks-on-Android-.git). 
 
