@@ -16,7 +16,7 @@ poddubniysergey1981@gmail.com
 
 Завершил курс Нетологии [Java-разработчик с нуля](https://netology.ru/programs/java-developer#/). Курс был рассчитан на 2 года, выполнил его экстерном за 12 месяцев. В процессе выполнения учебных проектов (например облачный сервис, сервис перевода денег, чат и др) использовал Java, Spring MVC, Spring Boot, Spring Security, PostgresSQL, JPA, Liquibase, Docker, Git,  JUnit, Mockito, TestContainers, Maven, Gradle.
 
-В настоящее время прохожу курс разработки под андроид в Skillbox, в рамках которого уже завершил блок изучения Kotlin, выполнял задания с применением MVVM, Retrofit, RecyclerView, Room, Dagger/Hilt, Navigation. Познакомился с Clean architecture.
+Сейчас изучаю курс разработки под андроид в Skillbox, в рамках которого уже завершил блок изучения Kotlin, выполнял задания с применением MVVM, Retrofit, RecyclerView, Room, Dagger/Hilt, Navigation. Познакомился с Clean architecture.
 
 Считаю своими сильными сторонами характера: целеустремленность, высокая работоспособность, способность быстро осваивать новое, умение брать на себя ответственность, работать в команде.
 
