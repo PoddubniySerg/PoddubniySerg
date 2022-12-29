@@ -14,7 +14,7 @@ poddubniysergey1981@gmail.com
 В настоящее время работаю в компании по ремонту и обслуживанию оборудования в должности заместителя генерального директора. 
 Имею огромное желание стать специалистом в разработке Java и Android приложений. Готов пройти любые тесты и испытательные сроки, чтобы получить шанс доказать свои способности.
 
-Завершил курс Нетологии [Java-разработчик с нуля](https://netology.ru/programs/java-developer#/). Курс был расчитан на 2 года, выполнил его экстерном за 12 месяцев. В процессе выполнения учебных проектов (например облачный сервис, сервис перевода денег, чат и др) использовал Java, Spring MVC, Spring Boot, Spring Security, PostgresSQL, JPA, Liquibase, Docker, Git,  JUnit, Mockito, TestContainers, Maven, Gradle.
+Завершил курс Нетологии [Java-разработчик с нуля](https://netology.ru/programs/java-developer#/). Курс был рассчитан на 2 года, выполнил его экстерном за 12 месяцев. В процессе выполнения учебных проектов (например облачный сервис, сервис перевода денег, чат и др) использовал Java, Spring MVC, Spring Boot, Spring Security, PostgresSQL, JPA, Liquibase, Docker, Git,  JUnit, Mockito, TestContainers, Maven, Gradle.
 
 В настоящее время прохожу курс разработки под андроид в Skillbox, в рамках которого уже завершил блок изучения Kotlin, выполнял задания с применением MVVM, Retrofit, RecyclerView, Room, Dagger/Hilt, Navigation. Познакомился с Clean architecture.
 
