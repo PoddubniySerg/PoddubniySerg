@@ -27,7 +27,7 @@ poddubniysergey1981@gmail.com
 - JUnit, Mockito, TestContainers
 - Spring Boot, Spring Security, Spring MVC
 - Docker
-- nginx
+- Nginx
 - SQL (MySQL, PostgreSQL)
 - Hibernate
 - Liquibase
@@ -50,14 +50,14 @@ poddubniysergey1981@gmail.com
 # Ссылки на проекты (Projects links):
 
 ### Java
-- ["Облачное хранилище" (Cloud Storage)](https://github.com/PoddubniySerg/StorageCloud.git): Spring Boot, Junit, Mockito, TestContainers, Maven, Docker, Docker-compose, Git
-- ["Конвертер в текстовую графику" (Converter to Text Graphics)](https://github.com/PoddubniySerg/Graphics_converter.git): Java, Git
-- ["Сетевой чат" (Network chat)](https://github.com/PoddubniySerg/Networkchat.git): Java core, JSON, Junit, Mockito, Maven, Git
+- ["Облачное хранилище" (Cloud Storage)](https://github.com/PoddubniySerg/StorageCloud.git): Spring Boot, Spring Security, Hibernate, PostgreSQL, Liquibase, Junit, Mockito, TestContainers, Maven, Docker, Docker-compose, Git.
 - ["Сервис перевода денег" (Money Transfer Service)](https://github.com/PoddubniySerg/MoneyTransferApp.git): Spring Boot, Junit, Mockito, TestContainers, Maven, Docker, Docker-compose, Git.
+- ["Сетевой чат" (Network chat)](https://github.com/PoddubniySerg/Networkchat.git): Java core, JSON, Junit, Mockito, Maven, Git.
+- ["Конвертер в текстовую графику" (Converter to Text Graphics)](https://github.com/PoddubniySerg/Graphics_converter.git): Java, Git.
 - [Все работы по курсу Java Нетологии (Java Netology Homeworks)](https://github.com/PoddubniySerg/Homeworks.git).
 
 ### Android
-- [Приложение для получения данных банковской карты по ее BIN (тестовое задание на вакансию)](https://github.com/PoddubniySerg/BinListNetClient): Kotlin, Android SDK, Git 
+- [Приложение для получения данных банковской карты по ее BIN (тестовое задание на вакансию)](https://github.com/PoddubniySerg/BinListNetClient): Kotlin, Android SDK, Git .
 - [Простое приложение для отображения списка фотографий с Марса из открытого Nasa API (A simple application to display a list of photos from Mars from the open Nasa API.)](https://github.com/PoddubniySerg/MarsPhotosNasaAPI.git): Kotlin, Android SDK, Git, MVVM, Clean Architecture, Retrofit, Hilt(Dagger), Paging library.
 - [Все работы по Андроид (Homeworks on Android)](https://github.com/PoddubniySerg/-Homeworks-on-Android-.git). 
 
