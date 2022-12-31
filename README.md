@@ -1,9 +1,12 @@
 ## Связаться со мной
 
-![telegram-icon](./editable/icons/telegramm.jpg)
+![phone](./editable/icons/phone.jpg)
++7 925-094-6152
+
+![telegram](./editable/icons/telegramm.jpg)
 [https://t.me/poddubniysergey198](https://t.me/poddubniysergey198)
 
-![email_icon](./editable/icons/email.jpg)
+![email](./editable/icons/email.jpg)
 poddubniysergey1981@gmail.com
 
 ## Резюме (.pdf)
@@ -16,13 +19,15 @@ poddubniysergey1981@gmail.com
 Образование высшее техническое. В настоящее время работаю в сервисной компании в должности заместителя генерального
 директора.
 
-Окончил курс Нетологии Java-разработчик с нуля. Курс был рассчитан на 2 года, выполнил его экстерном за 12 месяцев. В
-процессе выполнения учебных проектов (например облачный сервис, сервис перевода денег, чат и др) использовал Java,
-Spring MVC, Spring Boot, Spring Security, PostgresSQL, JPA, Liquibase, Docker, Git, JUnit, Mockito, TestContainers,
-Maven, Gradle.
+Прошел профессиональную переподготовку в Нетологии по
+программе [Java-разработчик с нуля](https://netology.ru/programs/java-developer#/). Получил диплом установленного
+образца. Курс был рассчитан на 2 года, выполнил его экстерном за 12 месяцев. В процессе выполнения учебных проектов (
+например облачный сервис, сервис перевода денег, чат и др) использовал Java, Spring MVC, Spring Boot, Spring Security,
+PostgresSQL, JPA, Liquibase, Docker, Git, JUnit, Mockito, TestContainers, Maven, Gradle.
 
-Прохожу курс разработки для андроид в Skillbox, в рамках которого уже завершил блок изучения Kotlin, выполнял задания с
-применением Android SDK, MVVM, Retrofit, RecyclerView, Room, Dagger/Hilt, Navigation. Познакомился с Clean architecture.
+Сейчас изучаю разработку для андроид в Skillbox (завершено 60% всего курса). Блок учебной программы Kotlin пройден
+полностью, изучил 80% материалов блока Android-разработчик (Уровень 1). В процессе выполнения заданий применял Android
+SDK, MVVM, Retrofit, RecyclerView, Room, Dagger/Hilt, Navigation. Познакомился с Clean architecture.
 
 Имею огромное желание стать специалистом разработчиком. Готов пройти любые тесты и испытательные сроки, чтобы получить
 шанс доказать свои способности.
