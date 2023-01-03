@@ -76,7 +76,7 @@ SDK, MVVM, Retrofit, RecyclerView, Room, Dagger/Hilt, Navigation. Познако
   Maven, Git.
 - ["Конвертер в текстовую графику" (Converter to Text Graphics)](https://github.com/PoddubniySerg/Graphics_converter.git):
   Java, Git.
-- [Все работы по курсу Java Нетологии (Java Netology Homeworks)](https://github.com/PoddubniySerg/Homeworks.git).
+- [Все проекты Java (Java projects)](./tasks/java/README.md).
 
 ### Android
 
@@ -84,7 +84,7 @@ SDK, MVVM, Retrofit, RecyclerView, Room, Dagger/Hilt, Navigation. Познако
   Kotlin, Android SDK, Git, MVVM, Clean Architecture, Retrofit, Hilt(Dagger), Room, RecyclerView.
 - [Простое приложение для отображения списка фотографий с Марса из открытого Nasa API (A simple application to display a list of photos from Mars from the open Nasa API.)](https://github.com/PoddubniySerg/MarsPhotosNasaAPI.git):
   Kotlin, Android SDK, Git, MVVM, Clean Architecture, Retrofit, Hilt(Dagger), Paging library.
-- [Все работы по Андроид (Homeworks on Android)](https://github.com/PoddubniySerg/-Homeworks-on-Android-.git).
+- [Все Android проекты (Android projects)](./tasks/android/README.md).
 
 ### JavaScript(ознакомительный курс Нетологии)
 
