@@ -1,6 +1,6 @@
 # Java проекты (Java projects)
 
-## Main projects:
+## Основные проекты (Main projects)
 
 - ["Облачное хранилище" (Cloud Storage)](https://github.com/PoddubniySerg/StorageCloud.git): Spring Boot, Spring
   Security, Hibernate, PostgreSQL, Liquibase, Junit, Mockito, TestContainers, Maven, Docker, Docker-compose, Git.
@@ -10,6 +10,10 @@
   Maven, Git.
 - ["Конвертер в текстовую графику" (Converter to Text Graphics)](https://github.com/PoddubniySerg/Graphics_converter.git):
   Java, Git.
+  
+## Тестовые задания работодателей (Employers' test tasks)
+
+- [Работа с API Честного знака](https://github.com/PoddubniySerg/TestCrptApi.git): Multithreading, Git, Lock, ReentrantLock, Stream API, Lombok, Gson.
 
 ## 1. Java Core
 
