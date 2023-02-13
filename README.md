@@ -4,25 +4,22 @@
 +7 925-094-6152
 
 ![telegram](./editable/icons/telegramm.jpg)
-[https://t.me/poddubniysergey198](https://t.me/poddubniysergey198)
+[@poddubniysergey198](https://t.me/poddubniysergey198)
 
 ![email](./editable/icons/email.jpg)
 poddubniysergey1981@gmail.com
 
 ## Резюме (.pdf)
 
-- [Резюме Java-developer](./final/CV_Sergey-Poddubniy-JAVA-developer.pdf).
-- [Резюме Android-developer](./final/CV_Sergey-Poddubniy-Android-developer.pdf).
+- [Резюме Java-developer](https://docs.google.com/document/d/1Iaf0rMyqGUqcwC-owbkLcPm1M5PDq73SbDducQeau_0/edit?usp=sharing).
+- [Резюме Android-developer](https://docs.google.com/document/d/1L9RPMFuUoemYHxm_qlow48A33yT1LeITcnhBzhoR6Dg/edit?usp=sharing).
 
 # Привет! Меня зовут Сергей, я Java/Android-разработчик.
 
-Образование высшее техническое([диплом](./diplomas/BGSHA/Ingeneer/pdf/Diploma.pdf)). В настоящее время работаю в сервисной компании в должности заместителя генерального
-директора.
+Образование высшее техническое([диплом](./diplomas/BGSHA/Ingeneer/pdf/Diploma.pdf)). Прошел профессиональную переподготовку в Нетологии по программе [Java-разработчик с нуля](https://netology.ru/programs/java-developer#/) и получил [диплом](./diplomas/Netology/Java_developer/pdf/Diploma.pdf). Также совершенствуюсь и в разработке мобильных приложений для Android. В своих проектах уверенно использую как Java, так и Kotlin.
 
-Прошел профессиональную переподготовку в Нетологии по программе [Java-разработчик с нуля](https://netology.ru/programs/java-developer#/). Получил [диплом](./diplomas/Netology/Java_developer/pdf/Diploma.pdf) установленного образца. Уверенно использую приобретенные навыки в проектах Java и Android.
-
-Считаю своими сильными сторонами характера: целеустремленность, высокая работоспособность, быстро осваиваю
-новые технологии, умение брать на себя ответственность, работать в команде.
+Занимался организацией и контролем работы подразделения по ремонту и обслуживанию оборудования заказчиков, решил продолжить развитие карьеры в программировании. Рассматриваю проекты в сфере IT и телеком.
+Программирование для меня — дело, которое никогда не дает скучать. К тому же профессия разработчика интересна возможностью удаленной работы, получить новые интересные знакомства и связи.
 
 ## Hard skills:
 
@@ -50,13 +47,6 @@ poddubniysergey1981@gmail.com
 - Dagger/Hilt
 - Navigation
 
-## Soft skills:
-
-- Управление коллективом
-- Ответственность
-- Стрессоустойчивость
-- Обучаемость
-
 # Ссылки на проекты (Projects links):
 
 ### Java
@@ -77,6 +67,8 @@ poddubniysergey1981@gmail.com
   Kotlin, Android SDK, Git, MVVM, Clean Architecture, Retrofit, Hilt(Dagger), Room, RecyclerView.
 - [Простое приложение для отображения списка фотографий с Марса из открытого Nasa API (A simple application to display a list of photos from Mars from the open Nasa API.)](https://github.com/PoddubniySerg/MarsPhotosNasaAPI.git):
   Kotlin, Android SDK, Git, MVVM, Clean Architecture, Retrofit, Hilt(Dagger), Paging library.
+- [Мини-приложение «Достопримечательности» (Mini-application "Sights")](https://github.com/PoddubniySerg/Attractions.git):
+Kotlin, Android SDK, Git, MVVM, Clean Architecture, Hilt(Dagger), Room, RecyclerView, CameraX.
 - [Все Android проекты (Android projects)](./tasks/android/README.md).
 
 ### JavaScript(ознакомительный курс Нетологии)
