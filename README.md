@@ -16,12 +16,17 @@ poddubniysergey1981@gmail.com
 
 # Привет! Меня зовут Сергей, я Java/Android-разработчик.
 
-Образование высшее техническое([диплом](./diplomas/BGSHA/Ingeneer/pdf/Diploma.pdf)). Прошел профессиональную переподготовку в Нетологии по программе [Java-разработчик с нуля](https://netology.ru/programs/java-developer#/) и получил [диплом](./diplomas/Netology/Java_developer/pdf/Diploma.pdf). Также совершенствуюсь и в разработке мобильных приложений для Android. В своих проектах уверенно использую как Java, так и Kotlin.
+- Увлекаюсь компьютерами, программированием, интересуюсь нововведениями в сфере IT
+- Образование высшее техническое([диплом](./diplomas/BGSHA/Ingeneer/pdf/Diploma.pdf)).
+- Прошел профессиональную переподготовку в Нетологии по программе [Java-разработчик с нуля](https://netology.ru/programs/java-developer#/) и получил [диплом](./diplomas/Netology/Java_developer/pdf/Diploma.pdf).
+- Совершенствуюсь и в разработке мобильных приложений для Android. В своих проектах уверенно использую как Java, так и Kotlin.
+- В будущем планирую изучить технологии фронтэнд разработки
+- В свободное время занимаюсь спортом и конечно обучением
 
 Занимался организацией и контролем работы подразделения по ремонту и обслуживанию оборудования заказчиков, решил продолжить развитие карьеры в программировании. Рассматриваю проекты в сфере IT и телеком.
 Программирование для меня — дело, которое никогда не дает скучать. К тому же профессия разработчика интересна возможностью удаленной работы, получить новые интересные знакомства и связи.
 
-## Hard skills:
+## Мой стек:
 
 - Java, Kotlin
 - ООП
@@ -83,3 +88,11 @@ Kotlin, Android SDK, Git, MVVM, Clean Architecture, Hilt(Dagger), Room, Recycler
 - [Разработка мобильных приложений с нуля (Mobile application development from scratch)](./certificates/StartAndroidNetology.pdf).
 - [Основы верстки сайта (Basics of site layout)](./certificates/HtmlAndCss.pdf).
 - [Основы программирования Python (Basics of Python Programming)](./certificates/python.pdf).
+
+# Моя статистика
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PoddubniySerg&theme=vision-friendly-dark&locale=ru&mode=weekly)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PoddubniySerg&layout=compact&theme=vision-friendly-dark&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PoddubniySerg&show_icons=true&theme=vision-friendly-dark&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
