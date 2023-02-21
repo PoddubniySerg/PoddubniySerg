@@ -9,7 +9,7 @@
 ![email](./editable/icons/email.jpg)
 poddubniysergey1981@gmail.com
 
-## Резюме (.pdf)
+## Резюме
 
 - [Резюме Java-developer](https://docs.google.com/document/d/1Iaf0rMyqGUqcwC-owbkLcPm1M5PDq73SbDducQeau_0/edit?usp=sharing).
 - [Резюме Android-developer](https://docs.google.com/document/d/1L9RPMFuUoemYHxm_qlow48A33yT1LeITcnhBzhoR6Dg/edit?usp=sharing).
@@ -21,7 +21,7 @@ poddubniysergey1981@gmail.com
 - Прошел профессиональную переподготовку в Нетологии по программе [Java-разработчик с нуля](https://netology.ru/programs/java-developer#/) и получил [диплом](./diplomas/Netology/Java_developer/pdf/Diploma.pdf).
 - Совершенствуюсь и в разработке мобильных приложений для Android. В своих проектах уверенно использую как Java, так и Kotlin.
 - В будущем планирую изучить технологии фронтэнд разработки
-- В свободное время занимаюсь спортом и конечно обучением
+- В свободное время занимаюсь семьей, МТБ, сноубордингом, катанием на роликах и, конечно, обучением
 
 Занимался организацией и контролем работы подразделения по ремонту и обслуживанию оборудования заказчиков, решил продолжить развитие карьеры в программировании. Рассматриваю проекты в сфере IT и телеком.
 Программирование для меня — дело, которое никогда не дает скучать. К тому же профессия разработчика интересна возможностью удаленной работы, получить новые интересные знакомства и связи.
@@ -93,6 +93,6 @@ Kotlin, Android SDK, Git, MVVM, Clean Architecture, Hilt(Dagger), Room, Recycler
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=PoddubniySerg&theme=vision-friendly-dark&locale=ru&mode=weekly)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PoddubniySerg&layout=compact&theme=vision-friendly-dark&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PoddubniySerg&show_icons=true&theme=vision-friendly-dark&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PoddubniySerg&layout=compact&theme=vision-friendly-dark&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
