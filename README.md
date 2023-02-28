@@ -20,7 +20,7 @@ poddubniysergey1981@gmail.com
 - Образование высшее техническое([диплом](./diplomas/BGSHA/Ingeneer/pdf/Diploma.pdf)).
 - Прошел профессиональную переподготовку в Нетологии по программе [Java-разработчик с нуля](https://netology.ru/programs/java-developer#/) и получил [диплом](./diplomas/Netology/Java_developer/pdf/Diploma.pdf).
 - Совершенствуюсь и в разработке мобильных приложений для Android. В своих проектах уверенно использую как Java, так и Kotlin.
-- В будущем планирую изучить технологии фронтэнд разработки
+- В будущем планирую изучить технологии фронтенд разработки
 - В свободное время занимаюсь семьей, МТБ, сноубордингом, катанием на роликах и, конечно, обучением
 
 Занимался организацией и контролем работы подразделения по ремонту и обслуживанию оборудования заказчиков, решил продолжить развитие карьеры в программировании. Рассматриваю проекты в сфере IT и телеком.
@@ -28,29 +28,28 @@ poddubniysergey1981@gmail.com
 
 ## Мой стек:
 
+### Общее
 - Java, Kotlin
-- ООП
-- SOLID
-- DRY
-- Ddesign patterns
+- ООП, Clean architecture, SOLID, DRY, Design patterns
 - git
 - Maven, Gradle
-- JUnit, Mockito, TestContainers
+- Windows, Ubuntu
+
+### Бэкенд (Java)
+- SQL (MySQL, PostgreSQL), ORM/JPA/Hibernate, Liquibase
 - Spring Boot, Spring Security, Spring MVC
+- JUnit, Mockito, TestContainers
 - Docker
 - Nginx
-- SQL (MySQL, PostgreSQL)
-- Hibernate
-- Liquibase
-- Windows, Ubuntu
+
+### Android (Kotlin)
 - Android SDK
 - MVP/MVVM
-- Clean architecture
 - Retrofit
-- RecyclerView
-- Room
+- SQLite (Room)
 - Dagger/Hilt
 - Navigation
+- Firebase
 
 # Ссылки на проекты (Projects links):
 
