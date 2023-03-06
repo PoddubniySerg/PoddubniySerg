@@ -27,31 +27,44 @@ poddubniysergey1981@gmail.com
 Программирование для меня — дело, которое никогда не дает скучать. К тому же профессия разработчика интересна возможностью удаленной работы, получить новые интересные знакомства и связи.
 
 ## Мой стек:
-
-### Общее
-- Java, Kotlin
-- ООП, Clean architecture, SOLID, DRY, Design patterns
-- git
-- Maven, Gradle
-- Windows, Ubuntu
-
-### Бэкенд (Java)
-- SQL (MySQL, PostgreSQL), ORM/JPA/Hibernate, Liquibase
-- Spring Boot, Spring Security, Spring MVC
-- JUnit, Mockito, TestContainers
-- Docker
-- Nginx
-
-### Android (Kotlin)
-- Android SDK
-- MVP/MVVM
-- Retrofit
-- SQLite (Room)
-- Dagger/Hilt
-- Navigation
-- Firebase
-
-# Ссылки на проекты (Projects links):
+<table>
+  <tr>
+    <th>Общее</th>
+    <th>Java (Бэкенд)</th>
+    <th>Android (Kotlin)</th>
+  </tr>
+  <tr>
+    <td width=35%>
+      <ul>
+        <li>Java, Kotlin</li>
+        <li>ООП, Clean architecture, SOLID, DRY, Design patterns</li>
+        <li>git</li>
+        <li>Maven, Gradle</li>
+        <li>Windows, Ubuntu</li>
+      </ul>
+    </td>
+    <td width=35%>
+      <ul>
+        <li>SQL (MySQL, PostgreSQL), ORM/JPA/Hibernate, Liquibase</li>
+        <li>Spring Boot, Spring Security, Spring MVC</li>
+        <li>JUnit, Mockito, TestContainers</li>
+        <li>Docker</li>
+        <li>Nginx</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Android SDK</li>
+        <li>MVP/MVVM</li>
+        <li>Retrofit</li>
+        <li>SQLite (Room)</li>
+        <li>Dagger/Hilt</li>
+        <li>Navigation</li>
+        <li>Firebase</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ### Java
 
