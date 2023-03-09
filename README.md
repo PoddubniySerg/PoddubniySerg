@@ -68,38 +68,39 @@ poddubniysergey1981@gmail.com
 
 ### Java
 
-- ["Облачное хранилище" (Cloud Storage)](https://github.com/PoddubniySerg/StorageCloud.git): Spring Boot, Spring
+- ["Облачное хранилище"](https://github.com/PoddubniySerg/StorageCloud.git): Spring Boot, Spring
   Security, Hibernate, PostgreSQL, Liquibase, Junit, Mockito, TestContainers, Maven, Docker, Docker-compose, Git.
-- ["Сервис перевода денег" (Money Transfer Service)](https://github.com/PoddubniySerg/MoneyTransferApp.git): Spring
+- ["Сервис перевода денег"](https://github.com/PoddubniySerg/MoneyTransferApp.git): Spring
   Boot, Junit, Mockito, TestContainers, Maven, Docker, Docker-compose, Git.
-- ["Сетевой чат" (Network chat)](https://github.com/PoddubniySerg/Networkchat.git): Java core, JSON, Junit, Mockito,
+- ["Сетевой чат"](https://github.com/PoddubniySerg/Networkchat.git): Java core, JSON, Junit, Mockito,
   Maven, Git.
-- ["Конвертер в текстовую графику" (Converter to Text Graphics)](https://github.com/PoddubniySerg/Graphics_converter.git):
+- ["Конвертер в текстовую графику"](https://github.com/PoddubniySerg/Graphics_converter.git):
   Java, Git.
-- [Все проекты Java (Java projects)](./tasks/java/README.md).
+- [Все проекты Java](./tasks/java/README.md).
 
 ### Android
-
-- [Приложение для получения данных банковской карты по ее BIN (тестовое задание на вакансию)](https://github.com/PoddubniySerg/BinListNetClient):
-  Kotlin, Android SDK, Git, MVVM, Clean Architecture, Retrofit, Hilt(Dagger), Room, RecyclerView.
-- [Простое приложение для отображения списка фотографий с Марса из открытого Nasa API (A simple application to display a list of photos from Mars from the open Nasa API.)](https://github.com/PoddubniySerg/MarsPhotosNasaAPI.git):
-  Kotlin, Android SDK, Git, MVVM, Clean Architecture, Retrofit, Hilt(Dagger), Paging library.
-- [Мини-приложение «Достопримечательности» (Mini-application "Sights")](https://github.com/PoddubniySerg/Attractions.git):
+- [Приложение для интернет-магазина](https://github.com/PoddubniySerg/TradeByBata.git):
+Kotlin, Корутины, Flow, MVVM, Clean Architecture, Многомодульность, DataStore, Room, Retrofit2, Hilt, Glide, Viewpager2, Navigation
+ - [Приложение для аудио-заметок](https://github.com/PoddubniySerg/VoiceNote.git):
+Kotlin, Android SDK, Git, MVVM, Clean Architecture, Hilt(Dagger), Media Store, Room, RecyclerView
+- [Клиент для сервиса https://binlist.net/](https://github.com/PoddubniySerg/BinListNetClient.git):
+Kotlin, Android SDK, Git, MVVM, Clean Architecture, Retrofit, Hilt(Dagger), Room, RecyclerView.
+- [Мини-приложение «Достопримечательности»](https://github.com/PoddubniySerg/Attractions.git):
 Kotlin, Android SDK, Git, MVVM, Clean Architecture, Hilt(Dagger), Room, RecyclerView, CameraX.
-- [Все Android проекты (Android projects)](./tasks/android/README.md).
+- [Все Android проекты](./tasks/android/README.md).
 
 ### JavaScript(ознакомительный курс Нетологии)
 
-- [Гайд по персонажам Marvel (Guide to Marvel characters)](https://github.com/PoddubniySerg/Marvel-characters-history.git):
+- [Гайд по персонажам Marvel](https://github.com/PoddubniySerg/Marvel-characters-history.git):
   JavaScript, Vue.js, Bootstrap, Node.js.
 
 # Сертификаты обучающих курсов (Certificates of training courses):
 
-- [Курс Java разработчик с нуля (Java from scratch)](./certificates/JavaFromScratch.pdf). Программа курса по ссылке: https://netology.ru/programs/java-developer#/.
+- Курс Java разработчик с нуля: [диплом](./certificates/JavaFromScratch.pdf) и [программа курса](https://netology.ru/programs/java-developer#/).
 - [Kotlin](./certificates/KotlinSkillBox.pdf).
-- [Разработка мобильных приложений с нуля (Mobile application development from scratch)](./certificates/StartAndroidNetology.pdf).
-- [Основы верстки сайта (Basics of site layout)](./certificates/HtmlAndCss.pdf).
-- [Основы программирования Python (Basics of Python Programming)](./certificates/python.pdf).
+- [Разработка мобильных приложений с нуля](./certificates/StartAndroidNetology.pdf).
+- [Основы верстки сайта](./certificates/HtmlAndCss.pdf).
+- [Основы программирования Python](./certificates/python.pdf).
 
 # Моя статистика
 
