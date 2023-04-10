@@ -38,18 +38,19 @@ poddubniysergey1981@gmail.com
       <ul>
         <li>Java, Kotlin</li>
         <li>ООП, Clean architecture, SOLID, DRY, Design patterns</li>
-        <li>git</li>
+        <li>Git</li>
         <li>Maven, Gradle</li>
         <li>Windows, Ubuntu</li>
       </ul>
     </td>
     <td width=35%>
       <ul>
-        <li>SQL (MySQL, PostgreSQL), ORM/JPA/Hibernate, Liquibase</li>
-        <li>Spring Boot, Spring Security, Spring MVC</li>
+        <li>SQL (MySQL, PostgreSQL), JDBC, ORM/JPA/Hibernate, Liquibase</li>
+        <li>Spring Boot, Spring Security, Spring MVC, Spring Core, Spring Data</li>
         <li>JUnit, Mockito, TestContainers</li>
         <li>Docker</li>
         <li>Nginx</li>
+        <li>Multithreading</li>
       </ul>
     </td>
     <td>
@@ -61,6 +62,7 @@ poddubniysergey1981@gmail.com
         <li>Dagger/Hilt</li>
         <li>Navigation</li>
         <li>Firebase</li>
+        <li>Coroutines/Flow</li>
       </ul>
     </td>
   </tr>
@@ -81,8 +83,6 @@ poddubniysergey1981@gmail.com
 ### Android
 - [Приложение для интернет-магазина](https://github.com/PoddubniySerg/TradeByBata.git):
 Kotlin, Корутины, Flow, MVVM, Clean Architecture, Многомодульность, DataStore, Room, Retrofit2, Hilt, Glide, Viewpager2, Navigation
- - [Приложение для аудио-заметок](https://github.com/PoddubniySerg/VoiceNote.git):
-Kotlin, Android SDK, Git, MVVM, Clean Architecture, Hilt(Dagger), Media Store, Room, RecyclerView
 - [Клиент для сервиса https://binlist.net/](https://github.com/PoddubniySerg/BinListNetClient.git):
 Kotlin, Android SDK, Git, MVVM, Clean Architecture, Retrofit, Hilt(Dagger), Room, RecyclerView.
 - [Мини-приложение «Достопримечательности»](https://github.com/PoddubniySerg/Attractions.git):
