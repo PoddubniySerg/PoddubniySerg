@@ -11,7 +11,9 @@
 - ["Конвертер в текстовую графику" (Converter to Text Graphics)](https://github.com/PoddubniySerg/Graphics_converter.git):
   Java, Git.
   
-## Тестовые задания работодателей (Employers' test tasks)
+## Тестовые задания, стажировки, интенсивы и тп.
+
+- [Интенсив Java от YLab (март 2023)](https://github.com/PoddubniySerg/ylab-java-intensive-tasks.git): Java Core, RabbitMQ, PostgreSQL, JDBC, Spring Core.
 
 - [Работа с API Честного знака](https://github.com/PoddubniySerg/TestCrptApi.git): Multithreading, Git, Lock, ReentrantLock, Stream API, Lombok, Gson.
 
