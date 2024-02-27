@@ -99,6 +99,8 @@ poddubniysergey1981@gmail.com
 - [Приложение для интернет-магазина](https://github.com/PoddubniySerg/TradeByBata.git):
   Kotlin, Корутины, Flow, MVVM, Clean Architecture, Многомодульность, DataStore, Room, Retrofit2,
   Hilt, Glide, Viewpager2, Navigation
+- [Приложение для просмотра видео меток на карте](https://github.com/PoddubniySerg/compass.git):
+  Mapbox Maps SDK для Android, ExoPlayer, Kotlin, DataStore, Retrofit2
 - [Клиент для сервиса https://binlist.net/](https://github.com/PoddubniySerg/BinListNetClient.git):
   Kotlin, Android SDK, Git, MVVM, Clean Architecture, Retrofit, Hilt(Dagger), Room, RecyclerView.
 - [Мини-приложение «Достопримечательности»](https://github.com/PoddubniySerg/Attractions.git):
