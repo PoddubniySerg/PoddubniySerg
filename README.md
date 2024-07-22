@@ -116,8 +116,7 @@ poddubniysergey1981@gmail.com
 
 - Курс Java разработчик с нуля от Нетологии: [диплом](./certificates/JavaFromScratch.pdf)
   и [программа курса](https://netology.ru/programs/java-developer#/).
-- Курс «Android-разработчик. Уровень 1» от
-  Skillbox: [сертификат](./certificates/Certificate_Android_lvl1.png)
+- Дополнительная образовательная программа Skillbox «Профессия Android-разработчик. Тариф Индивидуальный»: [сертификат](./certificates/Certificate_Android_Skillbox.png)
 - [Kotlin](./certificates/KotlinSkillBox.pdf).
 - [Разработка мобильных приложений с нуля](./certificates/StartAndroidNetology.pdf).
 - [Основы верстки сайта](./certificates/HtmlAndCss.pdf).
